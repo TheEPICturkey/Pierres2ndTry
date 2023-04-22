@@ -25,7 +25,7 @@ This application, as set by EPICODUS, allows users to access store front portal 
 
 ### Download/Run Instructions (git)
 
-- clone: `$ git clone `
+- clone: `$ git clone https://github.com/TheEPICturkey/PierresBakery.git`
 - navigate to project folder: `$ cd pierres-bakery/bakery`
 - restore: `$ dotnet restore`
 - build: `$ dotnet build`
