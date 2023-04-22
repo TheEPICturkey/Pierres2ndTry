@@ -33,7 +33,7 @@ This application, as set by EPICODUS, allows users to access store front portal 
 
 ### Test Instructions (git)
 
-- clone: `$ git clone ` or Code>Download ZIP
+- clone: `$ git clone https://github.com/TheEPICturkey/PierresBakery.git` or Code>Download ZIP
 - navigate to test folder: `$ cd pierres-bakery/bakery.tests`
 - test: `$ dotnet test`
 
